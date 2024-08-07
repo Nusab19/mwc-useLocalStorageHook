@@ -1,4 +1,4 @@
-* This is a question for stackoverflow *
+* This is a question for stackoverflow
 
 # "useLocalStorage" is a client only hook
 
